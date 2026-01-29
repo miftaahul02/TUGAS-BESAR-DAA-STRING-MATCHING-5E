@@ -11,9 +11,15 @@ Aplikasi ini mengimplementasikan algoritma **Knuth-Morris-Pratt (KMP)** untuk me
 
 ## 📸 Tangkapan Layar Aplikasi
 
-### 1. Halaman Pencarian
-![Search Page](link-gambar-1)
+## 1. Halaman Utama/ Dashboard
+<img width="1896" height="950" alt="Image" src="https://github.com/user-attachments/assets/c454e739-bacb-4b2e-8d23-e6b99da6c41d" />
 
-### 2. Hasil Pencarian (Highlight)
-![Result Page](link-gambar-2)
+### 2. Halaman Pencarian
+<img width="1893" height="946" alt="Image" src="https://github.com/user-attachments/assets/370d9a75-5864-4133-ac35-fbe2c8f50ef8" />
+
+### 3. Hasil Pencarian (Highlight)
+<img width="1893" height="946" alt="Image" src="https://github.com/user-attachments/assets/0f965561-5d8c-4694-b982-a0cdd36193cb" />
+
+
+
 
